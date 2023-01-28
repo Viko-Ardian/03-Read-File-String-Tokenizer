@@ -1,0 +1,5 @@
+viko ardian,Sofware Egineer,Java
+Yoo Hobin,FrontEnd Egineer,JavaScript
+Seong Johan,BackEnd Egineer,C++
+Seong taehoon,FullStack Egineer,JavaScript
+Jay Joo,DevOps Egineer,Java
