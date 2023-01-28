@@ -19,7 +19,7 @@ public class App {
             StringTokenizer stringTokenizer =new StringTokenizer(data, ",");
             System.out.printf("|%2d",number);
             System.out.printf("\t| %-20s", stringTokenizer.nextToken());
-            System.out.printf("\t| %s", stringTokenizer.nextToken());
+            System.out.printf("\t| %-20s", stringTokenizer.nextToken());
             System.out.printf("\t| %s", stringTokenizer.nextToken());
             System.out.println();
 
